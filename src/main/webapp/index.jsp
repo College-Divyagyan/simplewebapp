@@ -67,7 +67,7 @@
 <div class="header">
     Divya Gyan College Review Form
 </div>
-<form action="servlet/SubmitReview" method="post">
+<form action="submitReview" method="post">
     <label for="userName">Name:</label>
     <input type="text" id="userName" name="userName" required><br><br>
 
